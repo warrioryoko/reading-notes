@@ -2,9 +2,9 @@ HTML Chapter 6
 
 Tables are the spawn of the devil in HTML, and nobody should use them ever. They will never position correctly regardless of what CSS you use.
 
-You can create tables using the <table> tag, followed by <tr> for rows, and <td> (table data) for individual ceels nested in the rows. <th> makes bold headings for tables. The colspan and rowspan properties allow you to stretch columns and rows to take up more than one "cell" of the table.
+You can create tables using the table tag, followed by tr for rows, and td (table data) for individual ceels nested in the rows. th makes bold headings for tables. The colspan and rowspan properties allow you to stretch columns and rows to take up more than one "cell" of the table.
 
-<thead>, <tbody> and <tfoot> supposedly make long tables, but never work the way they're supposed to.
+thead, tbody and tfoot supposedly make long tables, but never work the way they're supposed to.
 
 Domain Modeling
 
