@@ -2,4 +2,4 @@ Template literals are a way to store strings, and mix it with JavaScript. Contai
 
 forEach() takes in an arrow function, and applies it once for each element of an Array it takes as a parameter.
 
-This reading assignment wasn't anywhere near as long as I thought it'd be, initially looking at the number of articles. It seems you just want us to really understand using Template Literals, and forEach() loops?
+This reading assignment wasn't anywhere near as long as I thought it'd be, initially looking at the number of articles. It seems you just want us to really understand using Template Literals, and forEach() loops?git a
