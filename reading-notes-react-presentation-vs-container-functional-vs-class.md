@@ -1,0 +1,1 @@
+I read a bunch of things about presentational vs container component architecture, some neat tricks using condtional rendering using ternaries and &&; and a medium article about functional vs class-based components in React.
